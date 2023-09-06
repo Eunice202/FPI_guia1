@@ -1,0 +1,8 @@
+Bueno, aquí vamos de nuevo desde cero, a intentar comprender un poco sobre los comandos de git.
+
+Hasta aca el primer bloque de edición.
+Hasta la linea 3 esta añadido en el git para darle seguimiento, voy a guardar esta linea,
+y la 5 para ver si es necesario volver a darle git add para hacerle seguimiento en gis status.
+en efecto, me tocó volverlo a guardar.
+
+Hasta la linea 8 será el primer commit...
